@@ -5,6 +5,7 @@ coverage.txt
 coverage.out
 # OSX trash
 .DS_Store
+run/
 
 # test benchmark tmp output
 cpu.out
